@@ -1,0 +1,12 @@
+// jshint ignore: start
++function($){
+
+$.rawCitiesData = [
+  {
+    "name":"北京",
+    "code":"110000",
+    "sub": [
+      {
+        "name": "北京市",
+        "code": "110000",
+        "sub":[
